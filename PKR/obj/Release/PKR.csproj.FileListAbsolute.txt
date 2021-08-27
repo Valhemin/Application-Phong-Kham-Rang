@@ -1,0 +1,15 @@
+D:\doan\PKR\obj\Release\PKR.csprojAssemblyReference.cache
+D:\doan\PKR\obj\Release\PKR.frmAccount.resources
+D:\doan\PKR\obj\Release\PKR.frmdulieu.resources
+D:\doan\PKR\obj\Release\PKR.frmEditInfor.resources
+D:\doan\PKR\obj\Release\PKR.frmEditPassAdmin.resources
+D:\doan\PKR\obj\Release\PKR.frmEditPassUser.resources
+D:\doan\PKR\obj\Release\PKR.frmforgotpass.resources
+D:\doan\PKR\obj\Release\PKR.frmAdmin.resources
+D:\doan\PKR\obj\Release\PKR.frmlichhenadmin.resources
+D:\doan\PKR\obj\Release\PKR.frmLogin.resources
+D:\doan\PKR\obj\Release\PKR.frmRegist.resources
+D:\doan\PKR\obj\Release\PKR.frmUser.resources
+D:\doan\PKR\obj\Release\PKR.Properties.Resources.resources
+D:\doan\PKR\obj\Release\PKR.csproj.GenerateResource.cache
+D:\doan\PKR\obj\Release\PKR.csproj.CoreCompileInputs.cache
